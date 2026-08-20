@@ -1,6 +1,6 @@
 # Hi, I'm Haisam 👋
 
-**Technical Lead @ Voltron Labs | AI Automation Engineer @ HelloForce | CS @ York University**
+AI & Software Engineer | CS @ York University**
 
 Building AI systems that actually work in production.
 14+ client deployments across automation pipelines, voice agents, and full-stack platforms.
