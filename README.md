@@ -1,6 +1,6 @@
 # Hi, I'm Haisam 👋
 
-AI & Software Engineer | CS @ York University**
+**AI & Software Engineer | CS @ York University**
 
 Building AI systems that actually work in production.
 14+ client deployments across automation pipelines, voice agents, and full-stack platforms.
